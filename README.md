@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koushal186
+- 👋 Hi, I’m Koushal Sharma
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on Machine Learning Projects
